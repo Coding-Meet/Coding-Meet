@@ -3,6 +3,7 @@
 ![Coding Meet Logo](https://github.com/Coding-Meet/Coding-Meet/blob/main/insta%20logo.jpeg)
 
 Welcome to **Coding Meet**, your go-to channel for learning Android programming! Whether you're a beginner or an experienced developer, we've got you covered with the latest tutorials, tips, and tricks for building Android apps using Kotlin and Java.
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## Why Choose Coding Meet?
 - Step-by-step guides for Android app development
@@ -18,13 +19,6 @@ We started this journey on April 11, 2023, with our first video. Since then, our
 
 Our next goal is to reach 500 subscribers, and we're excited to achieve it with your continued support.
 
-## Stay Connected
-Subscribe to our YouTube channel to stay updated with the latest tutorials and coding tips. You can also follow us on [Twitter](https://twitter.com/codingmeet) for announcements and behind-the-scenes insights.
-
-Let's grow together and take your Android programming skills to the next level with Coding Meet!
-
-Keep supporting and coding,
-Your Coding Meet Team
 
 <!-- # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact

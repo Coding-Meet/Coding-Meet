@@ -7,12 +7,14 @@ Welcome to **Coding Meet**, your go-to channel for learning Android programming!
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## :zap: Why Choose Coding Meet?
+
 - Step-by-step guides for Android app development
 - In-depth explanations to understand the concepts thoroughly
 - Regular updates with the latest trends in the Android world
 - Join our passionate community of developers and learn together
 
 ## :zap: Subscribe and Learn!
+
 We started this journey on April 11, 2023, with our first video. Since then, our community has been growing steadily. Thanks to your amazing support, we've reached the following milestones:
 - May 7, 2023: 10 subscribers 🎉
 - June 17, 2023: 50 subscribers 🎊
@@ -33,20 +35,28 @@ Our next goal is to reach 500 subscribers, and we're excited to achieve it with 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="kotlin" widht="40" height="40" /></p>
 
-<!-- # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
- -->
 
 ## 🌐 Socials:
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?viewas=100000686899395&id=100092407025934) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codingmeet26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/coding-meet-a74933273) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCbxVOMaM79ouNfgwEmkBNAg) 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Coding-Meet&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Coding-Meet&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Meet&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 ## 🏆 GitHub Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Coding-Meet&theme=discord&column=7&margin-w=15&margin-h=5)](https://github.com/Coding-Meet/)
 <hr>
+
+
+### :zap: Most used languages ❤️ 
+
+<img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Meet&layout=compact&hide=html&theme=highcontrast">
+<hr>
+
+### :zap: GitHub Stats ❤️ 
+
+<!--
+[![Coding Meet GitHub stats](https://github-readme-stats.vercel.app/api?username=Coding-Meet&theme=dark&show_icons=true)](https://github.com/Coding-Meet/)-->
+![Coding Meet GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Coding-Meet&theme=dark&hide_border=false)<br/>
+<hr>
+
+

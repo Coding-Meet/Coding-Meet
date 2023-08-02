@@ -1,9 +1,11 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Meet! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<hr>
 <!--
 ![Coding Meet Logo](https://github.com/Coding-Meet/Coding-Meet/blob/main/insta%20logo.jpeg)
 -->
 
 Welcome to **Coding Meet**, your go-to channel for learning Android programming! Whether you're a beginner or an experienced developer, we've got you covered with the latest tutorials, tips, and tricks for building Android apps using Kotlin and Java.
+<hr>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## :zap: Why Choose Coding Meet?
@@ -12,6 +14,7 @@ Welcome to **Coding Meet**, your go-to channel for learning Android programming!
 - In-depth explanations to understand the concepts thoroughly
 - Regular updates with the latest trends in the Android world
 - Join our passionate community of developers and learn together
+<hr>
 
 ## :zap: Subscribe and Learn!
 
@@ -21,6 +24,7 @@ We started this journey on April 11, 2023, with our first video. Since then, our
 - July 15, 2023: 100 subscribers 🥳
 
 Our next goal is to reach 500 subscribers, and we're excited to achieve it with your continued support.
+<hr>
 
 ### 💻 Languages and Tools
 
@@ -34,12 +38,12 @@ Our next goal is to reach 500 subscribers, and we're excited to achieve it with 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="figma" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="kotlin" widht="40" height="40" /></p>
-
+<hr>
 
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?viewas=100000686899395&id=100092407025934) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codingmeet26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/coding-meet-a74933273) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCbxVOMaM79ouNfgwEmkBNAg) 
-
+<hr>
 
 ## 🏆 GitHub Trophies
 

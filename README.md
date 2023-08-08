@@ -59,7 +59,10 @@ Our next goal is to reach 500 subscribers, and we're excited to achieve it with 
 ### :zap: GitHub Stats ❤️ 
 
 <!--
-[![Coding Meet GitHub stats](https://github-readme-stats.vercel.app/api?username=Coding-Meet&theme=dark&show_icons=true)](https://github.com/Coding-Meet/)-->
+[![Coding Meet GitHub stats](https://github-readme-stats.vercel.app/api?username=Coding-Meet&theme=dark&show_icons=true)](https://github.com/Coding-Meet/)
+
+![Coding Meet GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coding-Meet&theme=nord_dark)<br/>
+-->
 ![Coding Meet GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Coding-Meet&theme=dark&hide_border=false)<br/>
 <hr>
 

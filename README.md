@@ -52,18 +52,26 @@ Our next goal is to reach 500 subscribers, and we're excited to achieve it with 
 
 
 ### :zap: Most used languages ❤️ 
+<!--
+<img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Meet&layout=compact&hide=html&theme=nord_dark">
+![Coding Meet GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Coding-Meet&theme=nord_dark)
+![Coding Meet GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Coding-Meet&theme=nord_dark)
+-->
 
-<img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Meet&layout=compact&hide=html&theme=highcontrast">
+![Coding Meet GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Meet&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0)
 <hr>
+
 
 ### :zap: GitHub Stats ❤️ 
 
 <!--
-[![Coding Meet GitHub stats](https://github-readme-stats.vercel.app/api?username=Coding-Meet&theme=dark&show_icons=true)](https://github.com/Coding-Meet/)
+
+![Coding Meet GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Coding-Meet&theme=dark&hide_border=false)<br/>
+-->
+[![Coding Meet GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Coding-Meet&theme=nord_dark)](https://github.com/Coding-Meet/)
 
 ![Coding Meet GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coding-Meet&theme=nord_dark)<br/>
--->
-![Coding Meet GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Coding-Meet&theme=dark&hide_border=false)<br/>
+
 <hr>
 
 

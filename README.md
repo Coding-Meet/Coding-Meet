@@ -28,16 +28,7 @@ Our next goal is to reach 500 subscribers, and we're excited to achieve it with 
 
 ### 💻 Languages and Tools
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="android" width="40" height="40"/>
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="40" height="40"/>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="figma" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="kotlin" widht="40" height="40" /></p>
+![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,arduino,react,figma,vscode,py,git,github,firebase,mongodb,supabase)
 <hr>
 
 ## 🌐 Socials:

@@ -55,7 +55,7 @@ Our next goal is to reach 1000 subscribers, and we're excited to achieve it with
 ![Coding Meet GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Coding-Meet&theme=nord_dark)
 -->
 
-![Coding Meet GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Meet&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0)
+![Coding Meet GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Meet&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0)
 <hr>
 
 

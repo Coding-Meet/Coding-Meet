@@ -12,36 +12,35 @@
 
 Here's a glimpse of the projects I've had the pleasure of working on:
 
+- **Custom LCD Pattern Generator (Android App)**
+  An Android application which generates Arduino C code for a pattern given in input. (Live on play store, 1K+ downloads)
+  
+- **Home Automation System (IoT, Android App)**
+  This project is used to electronic devices of home are controlled using the Android app.
+
+- **Electric Vehicle (IoT)**
+  Worked on coding of the electric vehicle in Arduino C.
+
+- **Quillbot Web Scraping (Python)**
+  This project is used to automate the process of rewriting the content before this project we used to do all things manually and this process is very time-consuming.
 
 - **Multifactor Authenticator App**
-  An multifactor authenticator app to provide an additional layer of security to online accounts. The app generates a unique, time-based code that is used to verify the user's identity when logging into an account.
+  To provide an additional layer of security to online accounts. The app generates a unique, time-based code that is used to verify the user's identity when logging into an account.
 
 - **Daily Affirmation (Android App)**
-  Daily Affirmation with Wallpaper is a mobile application designed to provide daily affirmations and positive quotes to users, combined with a wallpaper feature that displays beautiful and inspiring images.
+  is a mobile application designed to provide daily affirmations and positive quotes to users, combined with a wallpaper feature that displays beautiful and inspiring images.
 
 - **Math Workout - Brain Exercise**
   Math Games! Our free app offers a fun and engaging way to train your brain and challenge yourself with a variety of math categories, including addition, subtraction, multiplication, division, square root, cube root, and more.
 
 - **Trivia App**
-  Trivia App is a mobile application that allows users to answer questions from various categories and levels.
-
-- **Quillbot Web Scraping (Python)**
-  This project is used to automate the process of rewriting the content before this project we used to do all things manually and this process is very time-consuming.
-
-- **Home Automation System (IoT, Android App)**
-  IoT and Android app based project where electronic devices of home are controlled using the Android app.
+  is a mobile application that allows users to answer questions from various categories and levels.
 
 - **MeetMyShow (Android App)**
   Online Movie Ticket Booking App. Built a clone of BookMyShow ticket booking app using Kotlin.
 
 - **Android Addict (Website)**
   A website made in React that provides code for Android components.
-
-- **Electric Vehicle (IoT)**
-  Worked on coding of the electric vehicle in Arduino C.
-
-- **Custom LCD Pattern Generator (Android App)**
-  An Android application which generates Arduino C code for a pattern given in input. (Live on play store, 1K+ downloads)
 
 - **Gamer's Arena (Android App)**
   An Android application where gaming tournaments can be hosted as well as joined by others.

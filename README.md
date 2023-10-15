@@ -7,11 +7,12 @@
   <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 💼 Currently, I work as a freelancer on Upwork and Fiverr.
 - 👨‍💻 I'm a computer engineer.
-- 🚀 I'm passionate about exploring and applying new technologies.
+- 🔍 I'm passionate about exploring and applying new technologies.
 - 📚 I believe in continuous learning.
 - 🛠️ I enjoy working on a variety of projects.
+- 💼 I'm currently a freelancer on Upwork and Fiverr.
+- 📹 I'm a YouTuber, sharing Android-related knowledge.
 
 Here are some of the projects I've worked on:
 

@@ -10,24 +10,46 @@
 - 💼 I'm currently a freelancer on Upwork and Fiverr.
 - 📹 I'm a YouTuber, sharing Android-related knowledge.
 
-Here are some of the projects I've worked on:
+Here's a glimpse of the projects I've had the pleasure of working on:
 
-- **Multifactor Authenticator App (03/2023 - 04/2023)**
-- **Daily Affirmation (Android App) (02/2023 - 03/2023)**
-- **Math Workout - Brain Exercise (01/2023 - 03/2023)**
-- **Trivia App (01/2023 - 02/2023)**
-- **Quillbot Web Scraping (Python) (12/2022 - 01/2023)**
-- **Home Automation System (IoT, Android App) (07/2022 - 11/2022)**
-- **MeetMyShow (Android App) (01/2022 - 03/2022)**
-- **Android Addict (Website) (11/2021 - 01/2022)**
-- **Electric Vehicle (IoT) (11/2020 - 06/2021)**
-- **Custom LCD Pattern Generator (Android App) (08/2020 - 05/2021)**
-- **Gamer's Arena (Android App) (07/2019 - 01/2020)**
+
+- **Multifactor Authenticator App**
+  An multifactor authenticator app to provide an additional layer of security to online accounts. The app generates a unique, time-based code that is used to verify the user's identity when logging into an account.
+
+- **Daily Affirmation (Android App)**
+  Daily Affirmation with Wallpaper is a mobile application designed to provide daily affirmations and positive quotes to users, combined with a wallpaper feature that displays beautiful and inspiring images.
+
+- **Math Workout - Brain Exercise**
+  Math Games! Our free app offers a fun and engaging way to train your brain and challenge yourself with a variety of math categories, including addition, subtraction, multiplication, division, square root, cube root, and more.
+
+- **Trivia App**
+  Trivia App is a mobile application that allows users to answer questions from various categories and levels.
+
+- **Quillbot Web Scraping (Python)**
+  This project is used to automate the process of rewriting the content before this project we used to do all things manually and this process is very time-consuming.
+
+- **Home Automation System (IoT, Android App)**
+  IoT and Android app based project where electronic devices of home are controlled using the Android app.
+
+- **MeetMyShow (Android App)**
+  Online Movie Ticket Booking App. Built a clone of BookMyShow ticket booking app using Kotlin.
+
+- **Android Addict (Website)**
+  A website made in React that provides code for Android components.
+
+- **Electric Vehicle (IoT)**
+  Worked on coding of the electric vehicle in Arduino C.
+
+- **Custom LCD Pattern Generator (Android App)**
+  An Android application which generates Arduino C code for a pattern given in input. (Live on play store, 1K+ downloads)
+
+- **Gamer's Arena (Android App)**
+  An Android application where gaming tournaments can be hosted as well as joined by others.
+
 <hr>
 
 Welcome to **Coding Meet**, your go-to channel for learning Android programming! Whether you're a beginner or an experienced developer, we've got you covered with the latest tutorials, tips, and tricks for building Android apps using Kotlin and Java.
 <hr>
-
 
 ## :zap: Why Choose Coding Meet?
 
@@ -78,5 +100,3 @@ Our next goal is to reach 1000 subscribers, and we're excited to achieve it with
 ![Coding Meet GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coding-Meet&theme=nord_dark)<br/>
 
 <hr>
-
-

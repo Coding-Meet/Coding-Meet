@@ -4,10 +4,33 @@
 ![Coding Meet Logo](https://github.com/Coding-Meet/Coding-Meet/blob/main/insta%20logo.jpeg)
 -->
 
+  <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
+- 💼 Currently, I work as a freelancer on Upwork and Fiverr.
+- 👨‍💻 I'm a computer engineer.
+- 🚀 I'm passionate about exploring and applying new technologies.
+- 📚 I believe in continuous learning.
+- 🛠️ I enjoy working on a variety of projects.
+
+Here are some of the projects I've worked on:
+
+- **Multifactor Authenticator App (03/2023 - 04/2023)**
+- **Daily Affirmation (Android App) (02/2023 - 03/2023)**
+- **Math Workout - Brain Exercise (01/2023 - 03/2023)**
+- **Trivia App (01/2023 - 02/2023)**
+- **Quillbot Web Scraping (Python) (12/2022 - 01/2023)**
+- **Home Automation System (IoT, Android App) (07/2022 - 11/2022)**
+- **MeetMyShow (Android App) (01/2022 - 03/2022)**
+- **Android Addict (Website) (11/2021 - 01/2022)**
+- **Electric Vehicle (IoT) (11/2020 - 06/2021)**
+- **Custom LCD Pattern Generator (Android App) (08/2020 - 05/2021)**
+- **Gamer's Arena (Android App) (07/2019 - 01/2020)**
+<hr>
+
 Welcome to **Coding Meet**, your go-to channel for learning Android programming! Whether you're a beginner or an experienced developer, we've got you covered with the latest tutorials, tips, and tricks for building Android apps using Kotlin and Java.
 <hr>
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
 
 ## :zap: Why Choose Coding Meet?
 

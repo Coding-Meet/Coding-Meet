@@ -10,40 +10,49 @@
 - 💼 I'm currently a freelancer on Upwork and Fiverr.
 - 📹 I'm a YouTuber, sharing Android-related knowledge.
 
-Here's a glimpse of the projects I've had the pleasure of working on:
+## ⭐ Feedback from clients:
+- Professional communication, fast delivery ! THX
+- Very helpful person helps us at every situation correct my mistakes and helps to run the activity perfectly thankyou so much a developer like u is impossible to find now days 🙌🙌🙌
+- Thank you for always helping to my project and you never tired of helping me. I appreciate all your efforts.
+- You had patience for me and made sure to help me no matter how the problem was.
+- Problem found fantastic. Job done successfully. Thanks
+<hr>
 
-- **Custom LCD Pattern Generator (Android App)**
-  An Android application which generates Arduino C code for a pattern given in input. (Live on play store, 1K+ downloads)
-  
-- **Home Automation System (IoT, Android App)**
-  This project is used to electronic devices of home are controlled using the Android app.
+## :zap: Projects I've worked on:
 
-- **Electric Vehicle (IoT)**
-  Worked on coding of the electric vehicle in Arduino C.
+1. **Custom LCD Pattern Generator (Android App):**
+   An Android application that generates Arduino C code for a given pattern. This app is available on the Play Store and has garnered over 1,000 downloads.
 
-- **Quillbot Web Scraping (Python)**
-  This project is used to automate the process of rewriting the content before this project we used to do all things manually and this process is very time-consuming.
+2. **Home Automation System (IoT, Android App):**
+   This project allows the control of electronic devices in your home using an Android app.
 
-- **Multifactor Authenticator App**
-  To provide an additional layer of security to online accounts. The app generates a unique, time-based code that is used to verify the user's identity when logging into an account.
+3. **Electric Vehicle (IoT):**
+   I worked on coding for electric vehicle systems using Arduino C.
 
-- **Daily Affirmation (Android App)**
-  is a mobile application designed to provide daily affirmations and positive quotes to users, combined with a wallpaper feature that displays beautiful and inspiring images.
+4. **Quillbot Web Scraping (Python):**
+   This project automates the process of rewriting content, saving valuable time that was previously spent on manual tasks.
 
-- **Math Workout - Brain Exercise**
-  Math Games! Our free app offers a fun and engaging way to train your brain and challenge yourself with a variety of math categories, including addition, subtraction, multiplication, division, square root, cube root, and more.
+5. **Multifactor Authenticator App:**
+   Designed to enhance online account security by generating unique, time-based codes for user identity verification.
 
-- **Trivia App**
-  is a mobile application that allows users to answer questions from various categories and levels.
+6. **Daily Affirmation (Android App):**
+   A mobile app delivering daily affirmations and inspiring quotes, along with a wallpaper feature for a visually enriching experience.
 
-- **MeetMyShow (Android App)**
-  Online Movie Ticket Booking App. Built a clone of BookMyShow ticket booking app using Kotlin.
+7. **Math Workout - Brain Exercise:**
+   This app offers an array of math challenges, from addition to square roots, making it an engaging tool for brain training.
 
-- **Android Addict (Website)**
-  A website made in React that provides code for Android components.
+8. **Trivia App:**
+   A mobile application that allows users to answer questions across various categories and difficulty levels.
 
-- **Gamer's Arena (Android App)**
-  An Android application where gaming tournaments can be hosted as well as joined by others.
+9. **MeetMyShow (Android App):**
+   An online movie ticket booking app developed in Kotlin, akin to the BookMyShow platform.
+
+10. **Android Addict (Website):**
+    A React-based website providing Android component code for developers.
+
+11. **Gamer's Arena (Android App):**
+    An Android app designed for hosting and joining gaming tournaments and events.
+
 
 <hr>
 
@@ -82,7 +91,7 @@ Our next goal is to reach 1000 subscribers, and we're excited to achieve it with
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Coding-Meet&theme=discord&column=7&margin-w=15&margin-h=5)](https://github.com/Coding-Meet/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Coding-Meet&theme=discord&column=8&margin-w=5&margin-h=5)](https://github.com/Coding-Meet/)
 <hr>
 
 

@@ -3,12 +3,14 @@
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 👨‍💻 I'm a computer engineer.
-- 🔍 I'm passionate about exploring and applying new technologies.
-- 📚 I believe in continuous learning.
-- 🛠️ I enjoy working on a variety of projects.
-- 💼 I'm currently a freelancer on Upwork and Fiverr.
-- 📹 I'm a YouTuber, sharing Android-related knowledge.
+- 👨‍💻 Computer Engineer.
+- 🚀 Passionate about exploring and applying new technologies.
+- 📖 Believer in continuous learning.
+- 🛠️ Enthusiast for a variety of projects.
+- 💼 Freelancer on Upwork and Fiverr.
+- 🤝 50+ contributions on Telegram, supporting fellow developers.
+- 💬 50+ answers on Stack Overflow, helping the programming community with their technical questions.
+- 📹 YouTuber, sharing Android-related knowledge.
 
 ## ⭐ Feedback from clients:
 - Professional communication, fast delivery ! THX

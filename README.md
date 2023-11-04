@@ -98,17 +98,15 @@ Our next goal is to reach 1000 subscribers, and we're excited to achieve it with
 [![trophy](https://github-profile-trophy.vercel.app/?username=Coding-Meet&theme=discord&column=8&margin-w=5&margin-h=5)](https://github.com/Coding-Meet/)
 <hr>
 
-
-### :zap: Most used languages ❤️ 
-
-![Coding Meet GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Meet&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0)
-<hr>
-
-
 ### :zap: GitHub Stats ❤️ 
 
-[![Coding Meet GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Coding-Meet&theme=nord_dark)](https://github.com/Coding-Meet/)
-
-![Coding Meet GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coding-Meet&theme=nord_dark)<br/>
+<div>
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Coding-Meet&theme=nord_dark"/>
+  &nbsp; &nbsp; &nbsp;
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Meet&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0"/>
+   <br />
+   <br />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coding-Meet&theme=nord_dark"/>
+</div>
 
 <hr>

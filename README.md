@@ -22,7 +22,7 @@
 - Problem found fantastic. Job done successfully. Thanks
 <hr>
 
-## :zap: Projects I've worked on:
+## :zap: Projects I've worked on
 
 1. **Custom LCD Pattern Generator (Android App):**
    An Android application that generates Arduino C code for a given pattern. This app is available on the Play Store and has garnered over 1,000 downloads.
@@ -88,7 +88,7 @@ Our next goal is to reach 1000 subscribers, and we're excited to achieve it with
 <hr>
 
 ## 🌐 Socials:
- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbxVOMaM79ouNfgwEmkBNAg) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codingmeet26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/coding-meet-a74933273)
+[![Buy me a Coffee](https://img.shields.io/badge/buymeacoffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/codingmeet) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbxVOMaM79ouNfgwEmkBNAg) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codingmeet26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/coding-meet-a74933273)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?viewas=100000686899395&id=100092407025934) 
 
 <hr>

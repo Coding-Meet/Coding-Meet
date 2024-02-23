@@ -97,7 +97,7 @@ Our next goal is to reach 1500 subscribers, and we're excited to achieve it with
 
 ### :zap: Stackoverflow Stats ❤️ 
 
-![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=13082664)
+[![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=13082664)](https://stackoverflow.com/users/13082664/meet)
 
 ## 🏆 GitHub Trophies
 

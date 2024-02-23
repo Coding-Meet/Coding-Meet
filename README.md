@@ -91,8 +91,13 @@ Our next goal is to reach 1500 subscribers, and we're excited to achieve it with
 ## 🌐 Socials:
 [![Buy me a Coffee](https://img.shields.io/badge/buymeacoffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/codingmeet) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbxVOMaM79ouNfgwEmkBNAg) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codingmeet26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/coding-meet-a74933273)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?viewas=100000686899395&id=100092407025934) 
+[![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/CodingMeet) 
 
 <hr>
+
+### :zap: Stackoverflow Stats ❤️ 
+
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=13082664)
 
 ## 🏆 GitHub Trophies
 

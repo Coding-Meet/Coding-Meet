@@ -57,8 +57,23 @@
 11. **Gamer's Arena (Android App):**
     An Android app designed for hosting and joining gaming tournaments and events.
 
+<hr>
+
+### 💻 Languages and Tools
+
+![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,arduino,react,figma,xd,idea,vscode,py,stackoverflow,git,github,postman,firebase,mongodb,supabase&perline=18)
+<hr>
+
+## 🌐 Socials:
+[![Buy me a Coffee](https://img.shields.io/badge/buymeacoffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/codingmeet) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbxVOMaM79ouNfgwEmkBNAg) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codingmeet26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coding-meet)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?viewas=100000686899395&id=100092407025934) 
+[![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/CodingMeet) 
 
 <hr>
+
+### :zap: Stackoverflow Stats ❤️ 
+
+[![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=13082664)](https://stackoverflow.com/users/13082664/meet)
 
 Welcome to **Coding Meet**, your go-to channel for learning Android programming! Whether you're a beginner or an experienced developer, we've got you covered with the latest tutorials, tips, and tricks for building Android apps using Kotlin and Java.
 <hr>
@@ -83,21 +98,6 @@ We started this journey on April 11, 2023, with our first video. Since then, our
 Our next goal is to reach 1500 subscribers, and we're excited to achieve it with your continued support.
 <hr>
 
-### 💻 Languages and Tools
-
-![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,arduino,react,figma,xd,idea,vscode,py,stackoverflow,git,github,postman,firebase,mongodb,supabase&perline=18)
-<hr>
-
-## 🌐 Socials:
-[![Buy me a Coffee](https://img.shields.io/badge/buymeacoffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/codingmeet) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbxVOMaM79ouNfgwEmkBNAg) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codingmeet26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coding-meet)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?viewas=100000686899395&id=100092407025934) 
-[![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/CodingMeet) 
-
-<hr>
-
-### :zap: Stackoverflow Stats ❤️ 
-
-[![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=13082664)](https://stackoverflow.com/users/13082664/meet)
 
 ## 🏆 GitHub Trophies
 

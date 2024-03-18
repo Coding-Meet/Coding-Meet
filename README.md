@@ -99,9 +99,10 @@ We started this journey on April 11, 2023, with our first video. Since then, our
 - June 17, 2023: 50 subscribers 🎊
 - July 15, 2023: 100 subscribers 🥳
 - October 12, 2023: 500 subscribers 🤩
-- January 6, 2024: 1000 subscribers 🚀
+- January 6, 2024: 1K subscribers 🚀
+- March 18, 2024: 1.5K subscribers 🎉
 
-Our next goal is to reach 1500 subscribers, and we're excited to achieve it with your continued support.
+Our next goal is to reach 2000 subscribers, and we're excited to achieve it with your continued support.
 <hr>
 
 

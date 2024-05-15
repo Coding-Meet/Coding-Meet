@@ -87,6 +87,8 @@
 
 [![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=13082664)](https://stackoverflow.com/users/13082664/meet)
 
+<hr>
+
 Welcome to **Coding Meet**, your go-to channel for learning Android programming! Whether you're a beginner or an experienced developer, we've got you covered with the latest tutorials, tips, and tricks for building Android apps using Kotlin and Java.
 <hr>
 

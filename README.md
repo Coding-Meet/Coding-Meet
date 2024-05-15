@@ -14,6 +14,8 @@
 - 💬 50+ answers on Stack Overflow, helping the programming community with their technical questions.
 - 📹 YouTuber, sharing Android-related knowledge.
 
+<hr>
+
 ## ⭐ Feedback from clients:
 
 - Meet is the best, I highly recommend him!

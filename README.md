@@ -35,43 +35,46 @@
 
 ## :zap: Projects I've worked on
 
-1. **Gemini AI Kotlin Multiplatform App (Android, iOS, Windows, macOS, Linux, and Web):**
+1. **News Kotlin Multiplatform App (Android, iOS, Windows, macOS, Linux):**
+  News KMP App is a Kotlin Compose Multiplatform (KMP) project that aims to provide a consistent news reading experience across multiple platforms, including Android, iOS, Windows, macOS, and Linux. This project leverages Kotlin's multiplatform capabilities to share code and logic while using Compose for UI, ensuring a seamless and native experience on each platform.
+
+2. **Gemini AI Kotlin Multiplatform App (Android, iOS, Windows, macOS, Linux, and Web):**
    Gemini AI KMP App is a Kotlin Compose Multiplatform project designed by Gemini AI where you can retrieve information from text and images in a conversational format. Additionally, it allows storing chats group-wise using SQLDelight and KStore, and facilitates changing the Gemini API key.
 
-2. **String Translator Desktop App:**
+3. **String Translator Desktop App:**
    String Translator Desktop App is a powerful desktop application built with Jetpack Compose, aiming to streamline the translation of strings for developers. It empowers users to seamlessly translate multiple strings into various languages, thereby optimizing the localization process.
 
-3. **Custom LCD Pattern Generator (Android App):**
+4. **Custom LCD Pattern Generator (Android App):**
    An Android application that generates Arduino C code for a given pattern. This app is available on the Play Store and has garnered over 1,000 downloads.
 
-4. **Home Automation System (IoT, Android App):**
+5. **Home Automation System (IoT, Android App):**
    This project allows the control of electronic devices in your home using an Android app.
 
-5. **Electric Vehicle (IoT):**
+6. **Electric Vehicle (IoT):**
    I worked on coding for electric vehicle systems using Arduino C.
 
-6. **Quillbot Web Scraping (Python):**
+7. **Quillbot Web Scraping (Python):**
    This project automates the process of rewriting content, saving valuable time that was previously spent on manual tasks.
 
-7. **Multifactor Authenticator App:**
+8. **Multifactor Authenticator App:**
    Designed to enhance online account security by generating unique, time-based codes for user identity verification.
 
-8. **Daily Affirmation (Android App):**
+9. **Daily Affirmation (Android App):**
    A mobile app delivering daily affirmations and inspiring quotes, along with a wallpaper feature for a visually enriching experience.
 
-9. **Math Workout - Brain Exercise:**
+10. **Math Workout - Brain Exercise:**
    This app offers an array of math challenges, from addition to square roots, making it an engaging tool for brain training.
 
-10. **Trivia App:**
+11. **Trivia App:**
    A mobile application that allows users to answer questions across various categories and difficulty levels.
 
-11. **MeetMyShow (Android App):**
+12. **MeetMyShow (Android App):**
    An online movie ticket booking app developed in Kotlin, akin to the BookMyShow platform.
 
-12. **Android Addict (Website):**
+13. **Android Addict (Website):**
     A React-based website providing Android component code for developers.
 
-13. **Gamer's Arena (Android App):**
+14. **Gamer's Arena (Android App):**
     An Android app designed for hosting and joining gaming tournaments and events.
 
 <hr>
@@ -127,7 +130,7 @@ Our next goal is to reach 5000 subscribers, and we're excited to achieve it with
 ### :zap: GitHub Stats ❤️ 
 
 <div>
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Coding-Meet&theme=nord_dark"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Coding-Meet&theme=nord&show_icons=true&include_all_commits=true&count_private=true"/>
   &nbsp; &nbsp; &nbsp;
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Meet&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0"/>
    <br />

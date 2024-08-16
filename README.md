@@ -10,8 +10,8 @@
 - 📖 Believer in continuous learning.
 - 🛠️ Enthusiast for a variety of projects.
 - 💼 Freelancer on Upwork and Fiverr.
-- 🤝 50+ contributions on Telegram, supporting fellow developers.
-- 💬 50+ answers on Stack Overflow, helping the programming community with their technical questions.
+- 🤝 500+ contributions on Telegram, supporting fellow developers.
+- 💬 60+ answers on Stack Overflow, helping the programming community with their technical questions.
 - 📹 YouTuber, sharing Android-related knowledge.
 
 <hr>

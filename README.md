@@ -135,7 +135,7 @@ Our next goal is to reach 5000 subscribers, and we're excited to achieve it with
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Meet&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0"/>
    <br />
    <br />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coding-Meet&theme=nord_dark"/>
+<!--    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coding-Meet&theme=nord_dark"/> -->
 </div>
 
 <hr>

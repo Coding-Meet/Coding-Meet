@@ -17,7 +17,7 @@
 
 ### 💼 Services
 
-⚡ I provide high-quality, scalable app development services for **Android, iOS, and Desktop** using both **native development** and **Compose Multiplatform**.
+⚡ I provide high-quality, scalable app development services for **Android, iOS and Desktop** using both **native development** and **Compose Multiplatform**.
 ✨ Let's work together to bring your project to life!
 
 <hr>

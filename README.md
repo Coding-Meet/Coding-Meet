@@ -6,7 +6,8 @@
 
 
 ### 👋 About Me
-- 💼 Freelance Developer (Fiverr & Upwork)  
+
+- 💼 Freelancer (Fiverr & Upwork) | 📹 Youtuber | ✍️ Blogger
 - 📱 Building apps for **Android, iOS, and Desktop (Mac, Windows, Linux)** using **Compose Multiplatform**  
 - 🎓 Computer Engineer with 2+ years of experience  
 - 📹 Creator at [Coding Meet](https://youtube.com/@codingmeet26) – 400+ tutorials, 4.2K+ subs  
@@ -16,7 +17,7 @@
 
 ### 💼 Services
 
-⚡ I provide high-quality, scalable app development services for **Android, iOS, and Desktop**, using both **native development** and **Compose Multiplatform**.
+⚡ I provide high-quality, scalable app development services for **Android, iOS, and Desktop** using both **native development** and **Compose Multiplatform**.
 ✨ Let's work together to bring your project to life!
 
 <hr>

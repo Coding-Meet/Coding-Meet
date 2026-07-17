@@ -9,9 +9,9 @@
 
 - 💼 Freelancer (Fiverr & Upwork) | 📹 Youtuber | ✍️ Blogger
 - 📱 Building apps for **Android, iOS, and Desktop (Mac, Windows, Linux)** using **Compose Multiplatform**  
-- 🎓 Computer Engineer with 2+ years of experience  
-- 📹 Creator at [Coding Meet](https://youtube.com/@codingmeet26) – 450+ tutorials, 4.4K+ subs  
-- ⭐ 850+ GitHub stars & 500+ GitHub followers & 45+ client projects delivered  
+- 🎓 Computer Engineer with 3+ years of experience  
+- 📹 Creator at [Coding Meet](https://youtube.com/@codingmeet26) – 450+ tutorials, 4.46K+ subs  
+- ⭐ 920+ GitHub stars & 500+ GitHub followers & 50+ client projects delivered  
 - ✍️ Writer on [Medium](https://medium.com/@meet26) about Android & Kotlin  
 <hr>
 

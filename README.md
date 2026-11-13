@@ -47,8 +47,8 @@
 ### 📊 Stats
 <div> 
  
-   <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Coding-Meet&theme=nord&show_icons=true&include_all_commits=true&count_private=true"/>
-&nbsp; &nbsp; <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Coding-Meet&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0"/>
+   <img align="center" src="https://github-stats-extended.vercel.app/api?username=Coding-Meet&theme=nord&show_icons=true&include_all_commits=true&count_private=true"/>
+&nbsp; &nbsp; <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Coding-Meet&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0"/>
    <br /> <br />
 
    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coding-Meet&theme=nord_dark"/>
